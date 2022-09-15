@@ -12,4 +12,4 @@ Built in React, practice using event listeners, useState, conditional rendering,
 
 
 ## Live site
--[Meme Generator](https://vladeanclaudiu.github.io/react-meme-generator/)
+[Meme Generator](https://vladeanclaudiu.github.io/react-meme-generator/)
