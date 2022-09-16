@@ -5,10 +5,10 @@ import Form from '../components/Form'
 function App() {
 
   return (
-    <div>
+    <main className='main-section'>
       <Nav />
       <Form />
-    </div>
+    </main>
   )
 }
 
